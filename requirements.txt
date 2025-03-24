@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+google-generativeai
+googletrans==4.0.0rc1 # Specific version for gTTS compatibility
+gTTS
+pandas
+fastapi
+uvicorn
+streamlit
+python-multipart # Required for FastAPI file uploads (if needed later, not explicitly in prompt but good practice)
